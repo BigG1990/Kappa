@@ -1,0 +1,2 @@
+
+% This function was used to calculate the kappa, a Monte Carlo Simulation methond was included to get kappa uncertainties.
